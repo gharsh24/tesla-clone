@@ -1,0 +1,6 @@
+.red-car{
+    height: 72vh;
+    background-image: url('https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Model-S-Exterior-Hero-Desktop-Global');
+    background-size: cover;
+    background-position: center;
+}

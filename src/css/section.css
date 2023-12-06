@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.car-section{
+    height:100vh;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    padding: 6.5%;
+    position: relative;
+}
+
+
+.specs
+{
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-container {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+}
+  
+.button-container button {
+    margin: 0 20px; /* Optional: Add some spacing between the buttons */
+}
+
+.navbar {
+    background-color: transparent !important;
+}
+  
+
+
+/* Third Section */
+
+.third-section{
+    height: 100vh;
+}
